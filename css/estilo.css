@@ -35,7 +35,7 @@ article {
     padding: 15px;
     flex-grow: 1;
     max-width: 40%;
-    
+
 }
 
 img {
@@ -55,7 +55,7 @@ p {
     padding: 0;
 }
 
-@media(max-width: 670px){
+@media(max-width: 670px) {
     ul {
         display: flex;
         flex-direction: column;
@@ -70,7 +70,8 @@ p {
     header>a {
         font-size: 40px;
     }
-    article{
+
+    article {
         max-width: 100%;
     }
 
